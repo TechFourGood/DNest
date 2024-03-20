@@ -5,7 +5,7 @@ import sys
 
 def pythonautas():
     requests.get('https://bit.ly/3vK3cIC')
-    print(f"Welcome to the pythoanautas community, visit https://pythonautas.com.br")
+    print(f"Welcome to the pythoanautas community, visit https://djangonest.com")
 
 def startproject():
     try:
